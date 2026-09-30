@@ -2,7 +2,7 @@
 
 **Flutter + Firebase developer for real-time and location apps.** I build the parts of mobile apps that usually go wrong: live data, background GPS, security rules and Play Store releases.
 
-🟢 **Open to freelance and contract work.**
+🟢 **Open to freelance and contract work:** [hire me on Upwork](https://www.upwork.com/freelancers/~0198a832f4cfda1c92).
 
 ---
 
